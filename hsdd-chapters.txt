@@ -1,0 +1,346 @@
+657	1	New Items	5929	0	New Items
+661	2	Restaurativ	6065	1	Kariesinfiltration
+661	2	Restaurativ	6041	2	Amalgame / Zubehör
+661	2	Restaurativ	59736	3	Ätzmittel
+661	2	Restaurativ	5950	4	Bonding Systeme
+661	2	Restaurativ	5953	5	Composite / Compomere 
+661	2	Restaurativ	5939	6	Stumpfaufbaumaterialien
+661	2	Restaurativ	6057	7	Keramik-Reparatur
+661	2	Restaurativ	5958	8	Glas-Ionomer-Zemente
+661	2	Restaurativ	5933	9	Befestigung
+661	2	Restaurativ	5940	10	Matrizen / Keile / Zubehör 
+661	2	Restaurativ	58910	11	Wangenhalter
+661	2	Restaurativ	5974	12	Finierstreifen / - Scheiben
+661	2	Restaurativ	6054	13	Artikulation / Okklusion
+661	2	Restaurativ	6027	14	Kofferdam
+661	2	Restaurativ	5937	15	Stiftsysteme / Verankerungen
+660	3	Abformung	5934	1	Silikon-Abformmaterialien
+660	3	Abformung	6050	2	Polyäther - Gummi - Abformmaterialien
+660	3	Abformung	6062	3	Sonstige Abformmaterialien
+660	3	Abformung	6030	4	Alginate
+660	3	Abformung	5969	5	Bissregistrierung
+660	3	Abformung	5932	6	Hilfsmittel / Zubehör
+660	3	Abformung	6036	7	Abformlöffel
+660	3	Abformung	64588	8	Intraoralscanner
+759	4	Temporäre Versorgung	6730	1	Temporäre Kronen
+759	4	Temporäre Versorgung	6732	2	Temporäre Kunststoffe
+759	4	Temporäre Versorgung	6733	3	Befestigungs - / Verschlussmaterialien
+662	5	Anästhetika  / Pharmazeutika	5957	1	Anästhetika
+662	5	Anästhetika  / Pharmazeutika	5962	2	Injektionsspritzen
+662	5	Anästhetika  / Pharmazeutika	6063	3	Vitalitätsprüfung / Devitalisation
+662	5	Anästhetika  / Pharmazeutika	5941	4	Desinfizieren und Trocknen von Kavitäten
+662	5	Anästhetika  / Pharmazeutika	6053	5	Pulpentherapeutika / Wurzelkanalbehandlung
+662	5	Anästhetika  / Pharmazeutika	6059	6	Desensibilisierung
+662	5	Anästhetika  / Pharmazeutika	6042	7	Retraktion
+662	5	Anästhetika  / Pharmazeutika	5936	8	Zahnfleisch- / Parodontosebehandlung
+662	5	Anästhetika  / Pharmazeutika	5973	9	Blutstillung / Wundversorgung
+662	5	Anästhetika  / Pharmazeutika	69151	10	Kalt-/Warm-Kompressen
+662	5	Anästhetika  / Pharmazeutika	6048	11	Knochenregeneration
+658	6	Einweg-, Glas- & Kunststoffartikel	5975	1	Papierhandtücher / Papiertücher
+658	6	Einweg-, Glas- & Kunststoffartikel	69149	2	Toilettenpapier
+658	6	Einweg-, Glas- & Kunststoffartikel	6045	3	Handschuhe
+658	6	Einweg-, Glas- & Kunststoffartikel	59734	4	Fingerlinge
+658	6	Einweg-, Glas- & Kunststoffartikel	59507	5	OP-Handschuhe
+658	6	Einweg-, Glas- & Kunststoffartikel	6046	6	Mundschutz
+658	6	Einweg-, Glas- & Kunststoffartikel	6022	7	Servietten / Auflagen / Bezüge
+658	6	Einweg-, Glas- & Kunststoffartikel	6071	8	Mundspülbecher
+658	6	Einweg-, Glas- & Kunststoffartikel	5942	9	Einmalkanülen / Spritzen
+658	6	Einweg-, Glas- & Kunststoffartikel	5972	10	Absaugkanüle / Speichelsauger
+658	6	Einweg-, Glas- & Kunststoffartikel	69153	11	Einmalansätze für Mehrfunktionsspritze
+658	6	Einweg-, Glas- & Kunststoffartikel	5971	12	Watterollen / Speichelabsorber
+658	6	Einweg-, Glas- & Kunststoffartikel	29976	13	Tupfer
+658	6	Einweg-, Glas- & Kunststoffartikel	69148	14	Zellstofftupfer
+658	6	Einweg-, Glas- & Kunststoffartikel	29981	15	Wattekügelchen
+658	6	Einweg-, Glas- & Kunststoffartikel	69829	16	Schaumstoffpellets
+658	6	Einweg-, Glas- & Kunststoffartikel	59504	17	Spender / Halterungen
+658	6	Einweg-, Glas- & Kunststoffartikel	5930	18	Applikationspinsel / Applikationskanülen / Mischkanülen
+658	6	Einweg-, Glas- & Kunststoffartikel	68496	19	Applikationspistolen / Applikationszangen / Mischpistolen
+658	6	Einweg-, Glas- & Kunststoffartikel	6035	20	Fräsatoren / Glaswaren
+658	6	Einweg-, Glas- & Kunststoffartikel	6034	21	Kunststoffartikel
+658	6	Einweg-, Glas- & Kunststoffartikel	43783	22	Aufbewahrungsbox
+658	6	Einweg-, Glas- & Kunststoffartikel	5935	23	Steriles Arbeitsfeld
+658	6	Einweg-, Glas- & Kunststoffartikel	69150	24	Kompressen
+658	6	Einweg-, Glas- & Kunststoffartikel	6033	25	Nahtmaterial
+663	7	Prophylaxe / Zahnästhetik	5954	1	Zahnbürsten
+663	7	Prophylaxe / Zahnästhetik	59735	2	Elektrische Zahnbürsten / Mundduschen
+663	7	Prophylaxe / Zahnästhetik	5961	3	Interdentalbürsten
+663	7	Prophylaxe / Zahnästhetik	63514	4	Zahnseiden
+663	7	Prophylaxe / Zahnästhetik	70454	5	Zungenreiniger
+663	7	Prophylaxe / Zahnästhetik	5946	6	Zahnpasten
+663	7	Prophylaxe / Zahnästhetik	70455	7	Haftcreme
+663	7	Prophylaxe / Zahnästhetik	70443	8	Kaugummi / Lutschtabletten
+663	7	Prophylaxe / Zahnästhetik	70444	9	Mundspüllösung
+663	7	Prophylaxe / Zahnästhetik	70450	10	Mundspray
+663	7	Prophylaxe / Zahnästhetik	5959	11	Diagnostik / Information
+663	7	Prophylaxe / Zahnästhetik	5963	12	Polierpasten / Reinigungspulver
+663	7	Prophylaxe / Zahnästhetik	69967	13	Aerosol Reduzierung
+663	7	Prophylaxe / Zahnästhetik	5964	14	Zahnreinigungsbürsten / -Polierer
+663	7	Prophylaxe / Zahnästhetik	5952	15	Fluoridierung
+663	7	Prophylaxe / Zahnästhetik	5947	16	Versiegelung
+663	7	Prophylaxe / Zahnästhetik	5943	17	Bleaching-Materialien
+663	7	Prophylaxe / Zahnästhetik	6735	18	Zahnschmuck
+663	7	Prophylaxe / Zahnästhetik	73139	19	Orale Gewohnheiten und Dysfunktionen
+666	8	Reinigung / Desinfektion / Pflege	6047	1	Waschlotion / Händereinigung
+666	8	Reinigung / Desinfektion / Pflege	60022	2	Händedesinfektion
+666	8	Reinigung / Desinfektion / Pflege	60023	3	Pflegelotion
+666	8	Reinigung / Desinfektion / Pflege	7334	4	Reinigung und Desinfektion
+666	8	Reinigung / Desinfektion / Pflege	6155	5	Abdruckdesinfektion
+666	8	Reinigung / Desinfektion / Pflege	6055	6	Flächendesinfektion
+666	8	Reinigung / Desinfektion / Pflege	6043	7	Wasserentkeimung / Absaugung
+666	8	Reinigung / Desinfektion / Pflege	6058	8	Reinigung Hand- / Winkelstücke / Turbinen
+666	8	Reinigung / Desinfektion / Pflege	6066	9	Ultraschall-Reinigung
+666	8	Reinigung / Desinfektion / Pflege	5948	10	Instrumenten-Reinigung / Desinfektion
+666	8	Reinigung / Desinfektion / Pflege	5955	11	Zubehör
+666	8	Reinigung / Desinfektion / Pflege	65208	12	Vaseline
+666	8	Reinigung / Desinfektion / Pflege	70456	13	Lippenpflege
+666	8	Reinigung / Desinfektion / Pflege	5976	14	Sterilisation
+667	9	Röntgen	6052	1	Zahnfilme
+667	9	Röntgen	67962	2	Speicherfolien
+667	9	Röntgen	5951	3	RWT-Technik
+667	9	Röntgen	6044	4	Röntgenschürzen
+667	9	Röntgen	6056	5	Chemikalien
+667	9	Röntgen	5966	6	Zubehör
+667	9	Röntgen	6032	7	Röntgenfilmkartei
+676	10	Arbeitsschutz / Hygiene	6018	1	Hand- / Augenschutz / Lupenbrillen
+676	10	Arbeitsschutz / Hygiene	43782	2	Gehörschutz
+676	10	Arbeitsschutz / Hygiene	43786	3	Hygieneschutzhüllen
+676	10	Arbeitsschutz / Hygiene	7362	4	DOCma / DOCqm Software
+676	10	Arbeitsschutz / Hygiene	7351	5	DOCma / DOCqm Hardware
+676	10	Arbeitsschutz / Hygiene	7363	6	DOCma / DOCqm Zubehör
+676	10	Arbeitsschutz / Hygiene	7364	7	DOCma / DOCqm Verbrauchsmaterial
+664	11	CAD / CAM	6003	1	CAD / CAM-Ronden
+664	11	CAD / CAM	37553	2	CAD / CAM-Blöcke
+664	11	CAD / CAM	6090	3	Diamanten und Fräswerkzeuge
+664	11	CAD / CAM	67945	4	Verblendtechnik
+664	11	CAD / CAM	6004	5	CAD / CAM-Zubehör
+664	11	CAD / CAM	38402	6	3D Drucker
+664	11	CAD / CAM	71857	7	Druckerharze / Resin
+664	11	CAD / CAM	64518	8	3D Druck Zubehör
+670	12	Rotierende Instrumente & Zubehör	5999	1	Diamantschleifer / -Scheiben
+670	12	Rotierende Instrumente & Zubehör	6742	2	Meisinger - Instrumente
+670	12	Rotierende Instrumente & Zubehör	12170	3	Einweg FG-Hartmetallfräser / -Bohrer
+670	12	Rotierende Instrumente & Zubehör	12171	4	Einweg RA-Hartmetallfräser / -Bohrer
+670	12	Rotierende Instrumente & Zubehör	56828	5	Einweg HP-Hartmetallfräser / -Bohrer
+670	12	Rotierende Instrumente & Zubehör	6096	6	Hartmetallfräser / -Bohrer
+670	12	Rotierende Instrumente & Zubehör	6743	7	Bohrerständer
+670	12	Rotierende Instrumente & Zubehör	12173	8	Einweg FG-Diamanten
+670	12	Rotierende Instrumente & Zubehör	12174	9	Einweg RA-Diamanten
+670	12	Rotierende Instrumente & Zubehör	6744	10	FG-Diamanten
+670	12	Rotierende Instrumente & Zubehör	6745	11	KFO-Instrumente / Schleifer
+670	12	Rotierende Instrumente & Zubehör	6000	12	Frästechnikinstrumente
+670	12	Rotierende Instrumente & Zubehör	6087	13	Keramische Schleifer
+670	12	Rotierende Instrumente & Zubehör	5987	14	Mandrells / Träger
+670	12	Rotierende Instrumente & Zubehör	6133	15	Heatless-Steine
+670	12	Rotierende Instrumente & Zubehör	6126	16	Trennscheiben
+670	12	Rotierende Instrumente & Zubehör	6016	17	Polierer
+670	12	Rotierende Instrumente & Zubehör	6019	18	Zubehör rotierende Instrumente
+670	12	Rotierende Instrumente & Zubehör	6015	19	Polierbürsten / -Filze / Schwabbeln
+670	12	Rotierende Instrumente & Zubehör	5984	20	Strahl- / Poliermittel
+670	12	Rotierende Instrumente & Zubehör	6082	21	Schleifpapiere / -Scheiben
+665	13	Instrumente	5956	1	Konservierende Behandlung
+665	13	Instrumente	6039	2	PA-Behandlung
+665	13	Instrumente	5945	3	Werkzeugansätze und ZEG-Spitzen
+665	13	Instrumente	69154	4	Elektrodenansätze
+665	13	Instrumente	6037	5	Prothetische Behandlung
+665	13	Instrumente	6064	6	Extraktion
+665	13	Instrumente	5967	7	Chirurgische Instrumente
+665	13	Instrumente	6020	8	Technikzangen / Gipsschneidezangen
+665	13	Instrumente	6107	9	Drahtschneider / Scheren
+665	13	Instrumente	5992	10	Teleskopkronenzangen / Halteklemmen
+665	13	Instrumente	6153	11	Muffel- / Tiegelzange
+665	13	Instrumente	6075	12	Modellierinstrumente / Wachsmesser
+665	13	Instrumente	6128	13	Anrührspatel
+665	13	Instrumente	6081	14	Keramikpinsel
+665	13	Instrumente	6141	15	Keramikinstrumente
+665	13	Instrumente	6131	16	Gipsmesser
+665	13	Instrumente	6074	17	Pinzetten
+665	13	Instrumente	6150	18	Gipsmodell-Sägen
+665	13	Instrumente	6123	19	Mess-Instrumente
+665	13	Instrumente	6124	20	Hämmer / Ausbettmeißel
+659	14	Endodontie	5938	1	Wurzelkanalbohrer / -Feilen / Nervnadeln
+659	14	Endodontie	6026	2	Papierspitzen
+659	14	Endodontie	6025	3	Wurzelfüller
+659	14	Endodontie	39853	4	Guttapercha / Obturatoren
+659	14	Endodontie	61855	5	Wurzelfüllung / Pulpenüberkappung
+659	14	Endodontie	5931	6	Plugger / Spreader
+659	14	Endodontie	5968	7	Endoboxen / Zubehör
+659	14	Endodontie	48601	8	Endodontiegeräte
+675	15	Modellieren	6120	1	Modellierwachsplatten
+675	15	Modellieren	6086	2	Modellierwachse
+675	15	Modellieren	6092	3	Wachse Modellguss
+675	15	Modellieren	6111	4	Wachsretentionen / -Profile
+675	15	Modellieren	6104	5	Wachsdraht / Gussstifte
+675	15	Modellieren	6105	6	Wachsfertigteile
+675	15	Modellieren	6136	7	Bisswachse
+675	15	Modellieren	5995	8	Zahnfleischmasken
+675	15	Modellieren	6011	9	Retentionsperlen / -Kristalle
+675	15	Modellieren	6114	10	Netzmittel
+675	15	Modellieren	6113	11	Brenner / Bunsenbrenner
+669	16	Kunststofftechnik	6009	1	Tiefziehfolien / Löffelplatten
+669	16	Kunststofftechnik	5978	2	Silikone / Knetmassen
+669	16	Kunststofftechnik	6007	3	Prothesenkunststoffe
+669	16	Kunststofftechnik	6010	4	Unterfütterungsmaterialien
+669	16	Kunststofftechnik	6095	5	Zubehör Kunststofftechnik
+669	16	Kunststofftechnik	6084	6	Geschiebe
+669	16	Kunststofftechnik	6127	7	Schablonen / Gitter / Netze / Bügel
+669	16	Kunststofftechnik	6135	8	Küvetten / -Bügel
+669	16	Kunststofftechnik	6147	9	Unterfütterungsgeräte
+669	16	Kunststofftechnik	6108	9	Klammerdrähte
+669	16	Kunststofftechnik	6083	10	Klammerkreuze / Drahtelemente
+669	16	Kunststofftechnik	6077	11	Fixatoren
+668	17	Modellherstellung	6088	1	Gipse
+668	17	Modellherstellung	6014	2	Modellsockelsysteme
+668	17	Modellherstellung	6013	3	Modellstifte / Retentionsringe
+668	17	Modellherstellung	6138	4	Sekundenkleber
+668	17	Modellherstellung	6098	5	Stumpflacke / Stumpfhärter
+668	17	Modellherstellung	6078	6	Modellkunststoffe
+668	17	Modellherstellung	5985	7	Modellier- / Ausblockkunststoffe
+668	17	Modellherstellung	6151	8	Anmischbecher / Dosierhilfen
+668	17	Modellherstellung	5998	9	Arbeitsschalen / Transportbehälter / Zubehör
+668	17	Modellherstellung	5983	10	Isoliermittel
+668	17	Modellherstellung	5977	11	Artikulatoren / Gesichtsbogen
+668	17	Modellherstellung	6106	12	Arbeitsmodelle
+672	18	Kunststoffverblendtechnik	6006	1	K+B-Materialien
+672	18	Kunststoffverblendtechnik	5981	2	Verbundsysteme
+672	18	Kunststoffverblendtechnik	6146	3	Zubehör
+673	19	Keramik	40748	1	Metallkeramik
+673	19	Keramik	40766	2	Vollkeramik
+673	19	Keramik	40739	3	Titankeramik
+673	19	Keramik	38636	4	Keramikzubehör
+673	19	Keramik	6110	5	Keramik-Anmischplatten
+673	19	Keramik	38637	6	Anmischflüssigkeiten / -fluids
+673	19	Keramik	38673	7	Malfarben / Glasur
+673	19	Keramik	38758	8	Presskeramik
+673	19	Keramik	38794	9	Presskeramikzubehör
+673	19	Keramik	38742	10	Farbschlüssel / Zahnfarbbestimmung
+673	19	Keramik	5994	11	Brenngutträger
+674	20	Gusstechnik	6089	1	Dubliermassen / -Küvetten
+674	20	Gusstechnik	5989	2	Einbettmassen
+674	20	Gusstechnik	6115	3	Feuerfeste Stumpfmaterialien
+674	20	Gusstechnik	6079	4	Kalt-Tauchhärter
+674	20	Gusstechnik	5988	5	NEM-Legierungen
+674	20	Gusstechnik	6143	6	Muffelformer / Gussringeinlagen
+674	20	Gusstechnik	6085	7	Gussküvetten / -Trichterformer / Trichter
+674	20	Gusstechnik	6144	8	Flussmittel / Antiflussmittel / Lötschutzpasten
+674	20	Gusstechnik	6148	9	Beizmittel
+674	20	Gusstechnik	6097	10	Lote
+674	20	Gusstechnik	5996	11	Tiegel
+674	20	Gusstechnik	6152	12	Schmelzpulver
+677	21	Organisationshilfen	6038	1	Karteien / Einlegeblätter
+677	21	Organisationshilfen	6067	2	Organisationshilfen
+677	21	Organisationshilfen	68492	3	Entsorgung
+677	21	Organisationshilfen	6061	4	Abrechnungshilfen
+677	21	Organisationshilfen	6069	5	Fachliteratur
+671	22	Kleingeräte	6162	1	Implantologie- / Chirurgiegeräte
+671	22	Kleingeräte	6747	2	Ultraschallgerät
+671	22	Kleingeräte	6748	3	Folienschweißgerät
+671	22	Kleingeräte	6163	4	Pulverstrahlgeräte
+671	22	Kleingeräte	6166	5	Präparationsgerät
+671	22	Kleingeräte	6605	6	Prophylaxegeräte
+671	22	Kleingeräte	6749	7	Prothesenreinigungsgeräte
+671	22	Kleingeräte	6164	8	Wasseraufbereitung
+671	22	Kleingeräte	6607	9	Mischgeräte
+671	22	Kleingeräte	5991	10	Geräte zur Modellherstellung
+671	22	Kleingeräte	6002	11	Wachstauchgeräte / Wachsmesser
+671	22	Kleingeräte	6094	12	Lichtpolymerisation
+671	22	Kleingeräte	6117	13	Tiefziehgeräte
+671	22	Kleingeräte	5990	14	Fräsgeräte
+671	22	Kleingeräte	6129	15	Dubliergeräte
+671	22	Kleingeräte	6139	16	Glänzmittel
+671	22	Kleingeräte	6118	17	Waagen
+671	22	Kleingeräte	6093	18	Kammerstrahlgeräte
+671	22	Kleingeräte	6073	19	Absauganlagen
+671	22	Kleingeräte	6099	20	Schweiß- / Schmelz- / Lötgeräte
+671	22	Kleingeräte	6116	21	Vorwärmeöfen
+671	22	Kleingeräte	5993	22	Keramikbrennöfen / Vakuumpumpen
+671	22	Kleingeräte	6130	23	Farberkennungssysteme
+671	22	Kleingeräte	6132	25	Sinteröfen
+671	22	Kleingeräte	6005	26	Turbinenanlagen
+671	22	Kleingeräte	6119	27	Ausbrühgeräte
+671	22	Kleingeräte	6008	28	Druckpolymerisationsgeräte
+671	22	Kleingeräte	6001	29	Technikmaschinen
+671	22	Kleingeräte	6112	30	Dampfstrahlgeräte
+671	22	Kleingeräte	6012	31	Poliermotoren / Poliereinheiten
+671	22	Kleingeräte	6109	32	Mikroskope
+671	22	Kleingeräte	6102	33	Auflagen
+671	22	Kleingeräte	8214	34	Therapie
+671	22	Kleingeräte	43269	35	Blutdruckmessgerät
+678	23	Turbinen- / Hand- / Winkelstücke	6159	1	Hand- und Winkelstücke
+678	23	Turbinen- / Hand- / Winkelstücke	6160	2	Turbinenwinkelstücke
+716	24	Zähne	6598	1	Zähne
+716	24	Zähne	6716	2	Dentsply Sirona
+716	24	Zähne	6717	3	Gebdi
+716	24	Zähne	6718	4	Ivoclar Vivadent
+716	24	Zähne	6720	5	Shofu
+716	24	Zähne	6721	6	Vita
+754	25	KFO	6667	1	Bracket Systeme
+754	25	KFO	6777	2	Bukkalröhrchen
+754	25	KFO	6677	3	Molarenbänder
+754	25	KFO	6703	4	Linguale Attachments
+754	25	KFO	6705	5	Attachments
+754	25	KFO	6704	6	Drähte
+754	25	KFO	6739	7	Dehnschrauben
+754	25	KFO	6706	8	Kieferorthopädische Verankerungen
+754	25	KFO	6708	9	Bondingmaterialien
+754	25	KFO	6709	10	Headgear-Produkte
+754	25	KFO	6710	11	Festsitzende Apparaturen
+754	25	KFO	6711	12	Fotografie
+754	25	KFO	6712	13	Pantera - Instrumente
+754	25	KFO	6713	14	Falcon - Instrumente
+754	25	KFO	6736	15	Hu-Friedy Instrumente
+754	25	KFO	6737	16	Kieferorthopädische Instrumente
+754	25	KFO	6740	17	Zahnspangenwachs
+754	25	KFO	6680	18	Organizer
+754	25	KFO	6707	19	Elastics
+754	25	KFO	43776	20	KFO-Kunststoffe und Zubehör
+754	25	KFO	43777	21	Einlegebilder / -motive
+5102	26	Implantologie alphatech	14766	1	Implantate TL alphatech
+5102	26	Implantologie alphatech	14776	2	Gingivaformer alphatech
+5102	26	Implantologie alphatech	14777	3	Prothetik alphatech
+5102	26	Implantologie alphatech	14778	4	Instrumente alphatech
+5102	26	Implantologie alphatech	14779	5	Angulationskonzept
+5102	26	Implantologie alphatech	62181	6	Implantate easyfixbase
+5102	26	Implantologie alphatech	14780	7	Guided Surgery
+5102	26	Implantologie alphatech	14781	8	Slim-Line Implantate
+5102	26	Implantologie alphatech	14782	9	Slim-Line Zubehör
+5102	26	Implantologie alphatech	56193	10	StecoTitanmagnetics
+905	27	Generische Implantat Komponenten	7745	1	Nobel Branemark
+905	27	Generische Implantat Komponenten	7749	2	Nobel Replace Select
+905	27	Generische Implantat Komponenten	7751	3	Nobel Active / Replace CC
+905	27	Generische Implantat Komponenten	7951	4	Straumann Soft Tissue Level / synOcta
+905	27	Generische Implantat Komponenten	7966	5	Straumann Bone Level
+905	27	Generische Implantat Komponenten	58626	6	Straumann BLX
+905	27	Generische Implantat Komponenten	69898	7	Dentium Superline
+905	27	Generische Implantat Komponenten	69888	8	Neodent Grand Morse
+905	27	Generische Implantat Komponenten	7968	9	Astra Tech Osseospeed (Aqua und Lilac)
+905	27	Generische Implantat Komponenten	15593	10	Astra Tech Implant System EV
+905	27	Generische Implantat Komponenten	7969	11	Dentsply Friadent Xive
+905	27	Generische Implantat Komponenten	7979	12	Dentsply Ankylos C/X
+905	27	Generische Implantat Komponenten	7971	13	Zimmer Screw-Vent
+905	27	Generische Implantat Komponenten	48602	14	MIS SEVEN
+905	27	Generische Implantat Komponenten	69900	15	Medentis ICX
+905	27	Generische Implantat Komponenten	7970	16	3i Osseotite
+905	27	Generische Implantat Komponenten	7972	17	3i Certain
+905	27	Generische Implantat Komponenten	42425	18	Camlog
+905	27	Generische Implantat Komponenten	7976	19	Biohorizons
+905	27	Generische Implantat Komponenten	47685	20	OSSTEM TS
+905	27	Generische Implantat Komponenten	56996	21	MEGAGEN AnyRidge
+905	27	Generische Implantat Komponenten	7977	22	Multi-Unit Abutments
+905	27	Generische Implantat Komponenten	7984	23	DESS LOC Locator Abutments
+905	27	Generische Implantat Komponenten	56069	24	DESS Scan Abutments
+905	27	Generische Implantat Komponenten	7978	25	DESS Werkzeuge
+905	27	Generische Implantat Komponenten	8205	26	Spezialschrauben
+947	28	Ersatzteile / Technik	7986	1	Adapter
+947	28	Ersatzteile / Technik	64875	2	Amalgamrotoren / Amalgambehälter / Amalgamabscheider
+947	28	Ersatzteile / Technik	64879	3	Batterie / Akku
+947	28	Ersatzteile / Technik	64867	4	Filter / Siebe
+947	28	Ersatzteile / Technik	64868	5	Leuchtmittel
+947	28	Ersatzteile / Technik	67985	6	Schmiermittel
+947	28	Ersatzteile / Technik	64876	7	Luft-Wasser-Spraydüse
+947	28	Ersatzteile / Technik	64869	8	O-Ringe / Dichtungen / Wartungssets
+947	28	Ersatzteile / Technik	64877	9	Prophylaxegeräte Zubehör
+947	28	Ersatzteile / Technik	64883	10	Saughandstück und Zubehör
+947	28	Ersatzteile / Technik	64870	11	Schläuche
+947	28	Ersatzteile / Technik	64878	12	Ersatzteile Zubehör
+1219	29	Deko & Geschenke	10277	1	Deko & Geschenke
+1219	29	Deko & Geschenke	48762	2	Spielzeug
