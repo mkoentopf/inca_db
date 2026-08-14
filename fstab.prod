@@ -1,0 +1,58 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/vg0/root during curtin installation
+/dev/disk/by-id/dm-uuid-LVM-aGmaH7mgY4eNLLEop2tDH3fHoCeoqwB4dZWp6dQDAui1zt5ZhzSl1ZD5ypNbWE1e / ext4 defaults 0 1
+/dev/disk/by-id/dm-uuid-LVM-aGmaH7mgY4eNLLEop2tDH3fHoCeoqwB4Ed0McaHg5ZmLeitra6xtvdS1bRqxFIaN none swap sw 0 0
+# /boot/efi was on /dev/sda1 during curtin installation
+/dev/disk/by-uuid/3FBB-52AB /boot/efi vfat defaults 0 1
+####################################################################
+# remote shares
+####################################################################
+//10.49.100.150/INCA /Volumes/INCA cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,ip=10.49.100.150,domain=cehsi,port=445 0 0
+//10.49.100.150/HSCS /Volumes/HSCS cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,ip=10.49.100.150,domain=cehsi,port=445 0 0
+//10.49.100.150/DatapoolExport /Volumes/datapoolexport cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,ip=10.49.100.150,domain=cehsi,port=445 0 0
+//10.49.100.150/Bild-O-Mat /Volumes/Bild-O-Mat cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,ip=10.49.100.150,domain=cehsi,port=445 0 0
+//10.49.100.150/share$ /Volumes/Internet cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,ip=10.49.100.150,domain=cehsi,port=445 0 0
+//10.52.131.90/share$/INCA /Volumes/Inca-Italy cifs user=SVCDE-INCA,pass=Unblended-Flagship2-Gigahertz,domain=cehsi,port=445 0 0
+
+### LIVE DE ###
+//hwebprimg1.hsiweb.local/DE_Assets /Volumes/DE_Assets cifs user=inca.server,pass=Lumping2-Tributary-Matador,domain=cehsi,port=445 0 0
+//hwebprimg1.hsiweb.local/DE_AssetDrop /Volumes/DE_AssetDrop cifs user=inca.server,pass=Lumping2-Tributary-Matador,domain=cehsi,port=445 0 0
+//sgbgilow01.ce.hsi.local/INCA_ImagesDocma$ /Volumes/INCA_ImagesDocma cifs user=pim.server.de,pass=Husked9-Decorator-Juggling,ip=10.45.6.41,domain=cehsi,port=445 0 0
+
+######### test system
+//hwebqaimg2.hsiweb.local/DE_Assets /Volumes/DE_Assets_TEST cifs user=inca.server,pass=Lumping2-Tributary-Matador,172.16.232.141,domain=cehsi,port=445 0 0
+//hwebqaimg2.hsiweb.local/DE_AssetDrop /Volumes/DE_AssetDrop_TEST cifs user=pim.server.de,pass=Husked9-Decorator-Juggling,ip=172.16.232.141,domain=cehsi,port=445 0 0
+//vdelnnap51.ce.hsi.local/INCA_ImagesDocma$ /Volumes/INCA_ImagesDocma_TEST cifs user=pim.server.de,pass=Husked9-Decorator-Juggling,ip=10.49.100.169,domain=cehsi,port=445 0 0
+
+### Benelux ###
+//hwebqaimg2.hsiweb.local/BE_Assets    /Volumes/BE_Assets_TEST    cifs user=pim.server.be,pass=Stitch-Unfunded-Evoke6,ip=172.16.232.141,domain=cehsi,port=445 0 0
+//hwebqaimg2.hsiweb.local/BE_AssetDrop /Volumes/BE_AssetDrop_TEST cifs user=pim.server.be,pass=Stitch-Unfunded-Evoke6,ip=172.16.232.141,domain=cehsi,port=445 0 0
+
+//hwebqaimg2.hsiweb.local/NL_Assets    /Volumes/NL_Assets_TEST    cifs user=pim.server.nl,pass=Snowplow-Quarters-Delouse4,ip=172.16.232.141,domain=cehsi,port=445 0 0
+//hwebqaimg2.hsiweb.local/NL_AssetDrop /Volumes/NL_AssetDrop_TEST cifs user=pim.server.nl,pass=Snowplow-Quarters-Delouse4,ip=172.16.232.141,domain=cehsi,port=445 0 0
+
+### Austria ###
+//hwebqaimg2.hsiweb.local/at_AssetDrop /Volumes/AT_AssetDrop_TEST cifs user=pim.server.at,pass=Earphone2-Mocker-Crabmeat,ip=172.16.232.141,domain=cehsi,port=445 0 0
+//hwebqaimg2.hsiweb.local/at_Assets /Volumes/AT_Assets_TEST cifs user=pim.server.at,pass=Earphone2-Mocker-Crabmeat,ip=172.16.232.141,domain=cehsi,port=445 0 0
+
+### Italy ###
+//hwebqaimg2.hsiweb.local/IT_AssetDrop /Volumes/IT_AssetDrop_TEST cifs user=pim.server.it,pass=Thickness-Jumble-Freeing5,ip=172.16.232.141,domain=cehsi,port=445 0 0
+
+### LIVE ###
+//hwebprimg1.hsiweb.local/BE_Assets       /Volumes/BE_Assets cifs user=pim.server.be,pass=Stitch-Unfunded-Evoke6,domain=cehsi,port=445,file_mode=0666 0 0
+//hwebprimg1.hsiweb.local/BE_AssetDrop /Volumes/BE_AssetDrop cifs user=pim.server.be,pass=Stitch-Unfunded-Evoke6,domain=cehsi,port=445,file_mode=0666 0 0
+
+//hwebprimg1.hsiweb.local/NL_Assets       /Volumes/NL_Assets cifs user=pim.server.nl,pass=Snowplow-Quarters-Delouse4,domain=cehsi,port=445 0 0
+//hwebprimg1.hsiweb.local/NL_AssetDrop /Volumes/NL_AssetDrop cifs user=pim.server.nl,pass=Snowplow-Quarters-Delouse4,domain=cehsi,port=445 0 0
+
+//hwebprimg1.hsiweb.local/at_Assets    /Volumes/AT_Assets cifs user=pim.server.at,pass=//99.Divided.June.Lone.69//,domain=cehsi,port=445 0 0
+//hwebprimg1.hsiweb.local/at_AssetDrop /Volumes/AT_AssetDrop cifs user=pim.server.at,pass=//99.Divided.June.Lone.69//,domain=cehsi,port=445 0 0
+
+//hwebprimg1.hsiweb.local/IT_Assets    /Volumes/IT_Assets    cifs user=pim.server.it,pass=Thickness-Jumble-Freeing5,domain=cehsi,port=445 0 0
+//hwebprimg1.hsiweb.local/IT_AssetDrop /Volumes/IT_AssetDrop cifs user=pim.server.it,pass=Thickness-Jumble-Freeing5,domain=cehsi,port=445 0 0
